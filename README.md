@@ -1,10 +1,10 @@
 Hola, aquí están todas las cosas necesarias para preparar y comenzar el rush01:
 
-    Antes que nada, hay que entender cómo se juega al juego “Skyscrapers”. Puedes encontrarlo aquí:
+Antes que nada, hay que entender cómo se juega al juego “Skyscrapers”. Puedes encontrarlo aquí:
     👉 https://www.puzzle-skyscrapers.com
 
-    La lógica que he creado es bastante simple para poder terminar la tarea, y luego hacer los “extras” sin problemas ni dolores de cabeza 😄.
-    Ahora voy a explicar mi lógica.
+La lógica que he creado es bastante simple para poder terminar la tarea, y luego hacer los “extras” sin problemas ni dolores de cabeza 😄.
+Ahora voy a explicar mi lógica.
     (Para mí, pensar en cómo hacer este proyecto fue divertido. Por eso, si quieres, puedes intentar imaginar tu propia versión de cómo hacerlo antes de leer la mía. Tal vez tu idea sea mejor y más simple 😊)
 
 Explicación de la lógica:
